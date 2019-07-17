@@ -6,3 +6,4 @@ SportsStore.Domain/
 
 bin
 packages/
+*.*.user
