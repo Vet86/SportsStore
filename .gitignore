@@ -1,0 +1,8 @@
+.vs
+SportsStore.Domain/
+
+obj
+SportsStore.Domain/
+
+bin
+packages/
